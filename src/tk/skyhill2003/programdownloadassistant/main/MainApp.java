@@ -18,7 +18,6 @@ public class MainApp extends JFrame {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
         frame.setVisible(true);
-        // Test
     }
 
     public MainApp() {
