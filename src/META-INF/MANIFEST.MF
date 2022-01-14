@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: tk.skyhill2003.programdownloadassistant.main.MainApp
+

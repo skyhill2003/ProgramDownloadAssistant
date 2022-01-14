@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProgramDownloadAssistant:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProgramDownloadAssistant_jar</output-path>
+    <root id="archive" name="ProgramDownloadAssistant.jar">
+      <element id="module-output" name="ProgramDownloadAssistant" />
+    </root>
+  </artifact>
+</component>
