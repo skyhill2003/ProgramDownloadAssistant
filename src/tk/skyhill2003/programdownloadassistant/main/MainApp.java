@@ -5,8 +5,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class MainApp extends JFrame {
-    private JButton button1;
     private JPanel mainPanel;
+    private JCheckBox checkBox1;
+    private JButton button1;
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("App");
@@ -18,6 +19,7 @@ public class MainApp extends JFrame {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
         frame.setVisible(true);
+        // test
     }
 
     public MainApp() {
