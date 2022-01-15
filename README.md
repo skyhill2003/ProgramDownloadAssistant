@@ -2,6 +2,7 @@
 
 ``Test Software``
 
+![GitHub repo size](https://img.shields.io/github/repo-size/skyhill2003/ProgramDownloadAssistant)
 -----------------------------------------
 
 ```java
